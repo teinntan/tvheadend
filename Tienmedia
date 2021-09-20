@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="http://imageakm1.tv360.vn/image1/2020_09_23/1600822360263/f573c3f2e120_180_180.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
